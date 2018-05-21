@@ -1,0 +1,12 @@
+body{
+    font-family: "Tahoma", sans-serif;
+    background: #333;
+    color: #fff;
+}
+
+.col{
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+    box-sizing: border-box;
+}
